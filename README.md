@@ -18,8 +18,6 @@ A modern browser-based Tic-Tac-Toe where you play against a computer AI, featuri
   <img src="preview/002.png" alt="Tic-Tac-Toe preview 2" width="420" />
 </p>
 
-*Add your screenshots to the `preview/` folder with names `001.png`, `002.png` (or adjust paths to match).*
-
 ---
 
 ## Stack Used
